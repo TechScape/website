@@ -1,0 +1,16 @@
+{
+    "host": "198.38.83.16",
+    "username": "techscape.pk",
+    "password": "eliudwfchqkxboja",
+    "remotePath": "/techscape.pk/wwwroot",
+    "protocol": "ftp",
+    "port": 0,
+    "fileNameEncoding": "utf8",
+    "autoUpload": false,
+    "autoDelete": false,
+    "autoDownload": false,
+    "ignore": [
+        ".git",
+        "/.vscode"
+    ]
+}
